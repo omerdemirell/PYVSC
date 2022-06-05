@@ -1,6 +1,3 @@
-"""
-pickle import etme sebebim: bizim program akışında oluşturduğumuz değişkenleri bilgisyar ortamında kalıcıı olarak kaydetmemize yarayan modül
-"""
 import pickle
 import numpy as np
 import os
